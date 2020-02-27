@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Products from './partials/Products'
+import Products from '../partials/Products'
 import Styler from './stylers/ProductsStyler'
 
 
